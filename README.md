@@ -50,11 +50,10 @@ Here are some ideas to get you started:
 </details>
 <!-- GitHub Stats -->
 <h3 align="center"> 📈 GitHub Stats </h3> <br>
-<a href="https://github.com/quasswexexort">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&)](https://github.com/quasswexexort)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&?theme=radical)](https://github.com/quasswexexort)
 
 
 
