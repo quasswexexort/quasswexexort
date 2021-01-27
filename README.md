@@ -1,7 +1,4 @@
 ### 
-<h3 align="center"> Hi there 👋 I’m Yuriy </h3>
-<hr align="center" width="100%" size="1" color="#ff69b4" />
-<h5 align ="center" color="ff69b4">a front-end developer from Ternopil, Ukraine</h5>
 <!--
 **quasswexexort/quasswexexort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...?style=for-the-badge&logo=appveyor
+- ⚡ Fun fact: ...
 -->
+<h3 align="center"> Hi there 👋 I’m Yuriy </h3>
+<hr align="center" width="100%" size="1" color="#ff69b4" />
+<h5 align ="center">A front-end developer from Ternopil, Ukraine</h5>
 
-[![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort?style=for-the-badge&logoColor=white&color=ff69b4)](https://yuriyyy.netlify.app/)
 <a href="https://t.me/frayerok">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -27,6 +26,9 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/quaswexexort">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+[![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort?style=for-the-badge&logoColor=white&color=ff69b4)](https://yuriyyy.netlify.app/)
+
 <!-- GitHub Stats -->
 <h3> 📈 GitHub Stats </h3> <br>
 <a href="https://github.com/quasswexexort">
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/quasswexexort">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yuriy's GitHub Stats" />
 </a>
-<h3> 💼 Skills </h3>
+<div> <h3> 💼 Skills </h3>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
@@ -43,16 +45,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-
-
-
-
+</div>
 <details>
 <summary>My Resume</summary>
 <h3> 🎓 Education </h3>
   🖥️Web Development. <br>
   🗓️2017-Until then. <br>
   📍 Ternopil National Pedagogical University, Ukraine. <br>
-...
+<hr align="center" width="100%" size="1" color="#ff69b4" />
+ 
 </details>
 
