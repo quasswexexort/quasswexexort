@@ -68,7 +68,9 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>You are visitor	nubmer</td>
-      <td> ![Visitor Count](https://profile-counter.glitch.me/{quasswexexort}/count.svg) </td>
+      <td> 
+        <img src="https://camo.githubusercontent.com/165709a1c01eba425ea136332a71f0a163205b4ad434753854397c748cce8b8a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7279616e6c616e63696175782f636f756e742e737667" alt="" data-canonical-src="https://profile-counter.glitch.me/quasswexexort/count.svg" style="max-width:100%;"></a>
+</td>
     </tr>
   </tbody
 </table>
