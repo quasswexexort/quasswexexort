@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort)](https://yuriyyy.netlify.app/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/frayero4ok?style=social)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&color=ff69b4)](https://www.linkedin.com/in/braydon-coyer/)
 ![GitHub followers](https://img.shields.io/github/followers/quasswexexort?logoColor=ff69b4&style=social)
