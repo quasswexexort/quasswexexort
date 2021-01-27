@@ -30,9 +30,10 @@ Here are some ideas to get you started:
   
 
 <p align="center">
+  <a href="https://yuriyyy.netlify.app/">   Visit my personal homepage  <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>  </a> <br>
   <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
    How to reach me: 
-  <a href="mailto:frayero40ok@gmail.com">frayero40ok@gmail.com</a>
+  <a href="mailto:frayero40ok@gmail.com">frayero40ok@gmail.com 
 </a>
 
 <div> <h3> 💼 Skills </h3>
@@ -64,12 +65,10 @@ Here are some ideas to get you started:
 
 
 You are visitor nubmer: <br>
-![Visitor Count](https://profile-counter.glitch.me/{quasswexexort}/count.svg)
+![Visitor Count ](https://profile-counter.glitch.me/{quasswexexort}/count.svg)
 
 
-
-
-
+=
 
 
 
