@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Hi there 👋 I’m Yuriy </h3>
 <hr align="center" width="100%" size="1" color="#ff69b4" />
 <h5 align ="center">A front-end developer from Ternopil, Ukraine</h5>
-
+<p align="center">
 <a href="https://t.me/frayerok">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/quaswexexort">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+  
 [![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort?style=for-the-badge&logoColor=white&color=ff69b4)](https://yuriyyy.netlify.app/)
+</p>
+
 
 <!-- GitHub Stats -->
 <h3> 📈 GitHub Stats </h3> <br>
