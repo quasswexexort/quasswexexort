@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Hi there 👋 I’m Yuriy </h3>
 <hr align="center" width="100%" size="1" color="#ff69b4" />
 <h5 align ="center">A front-end developer from Ternopil, Ukraine</h5>
+
 <p align="center">
 <a href="https://t.me/frayerok">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -29,6 +30,12 @@ Here are some ideas to get you started:
   
 [![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort?style=for-the-badge&logoColor=white&color=ff69b4)](https://yuriyyy.netlify.app/)
 </p>
+
+<p align="center">
+  <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
+   How to reach me: 
+  <a href="mailto:frayero40ok@gmail.com">frayero40ok@gmail.com</a>
+</a>
 
 <div> <h3> 💼 Skills </h3>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -51,9 +58,24 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <h3 align="center"> 📈 GitHub Stats </h3> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&?theme=radical)](https://github.com/quasswexexort)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&?theme=radical)](https://github.com/quasswexexort) <br>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>You are visitor	nubmer</td>
+      <td> ![Visitor Count](https://profile-counter.glitch.me/{quasswexexort}/count.svg) </td>
+    </tr>
+  </tbody
+</table>
+ 
+
+
+
 
 
 
