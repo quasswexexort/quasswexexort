@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=social&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=social&logo=twitter&logoColor=white&color=blue)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=white&color=ff69b4)](https://www.linkedin.com/in/braydon-coyer/)
 ![GitHub followers](https://img.shields.io/github/followers/quasswexexort?logoColor=ff69b4&style=social)
 
