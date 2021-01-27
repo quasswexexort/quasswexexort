@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
-[![Visits Badge](https://badges.pufler.dev/visits/quasswexexort/quasswexexort?style=for-the-badge&logoColor=white&color=ff69b4)](https://yuriyyy.netlify.app/)
-</p>
 
 <p align="center">
   <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
@@ -64,16 +62,10 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&?theme=radical)](https://github.com/quasswexexort) <br>
 
 
-<table>
-  <tbody>
-    <tr>
-      <td>You are visitor	nubmer</td>
-      <td> 
-        <img src="https://camo.githubusercontent.com/165709a1c01eba425ea136332a71f0a163205b4ad434753854397c748cce8b8a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7279616e6c616e63696175782f636f756e742e737667" alt="" data-canonical-src="https://profile-counter.glitch.me/quasswexexort/count.svg" style="max-width:100%;"></a>
-</td>
-    </tr>
-  </tbody
-</table>
+
+You are visitor nubmer: <br>
+![Visitor Count](https://profile-counter.glitch.me/{quasswexexort}/count.svg)
+
  
 
 
