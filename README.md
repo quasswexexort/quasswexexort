@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 
 <p align="center">
-  <a href="https://yuriyyy.netlify.app/">   Visit my personal homepage  <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>  </a> <br>
+  <a href="https://yuriyyy.netlify.app/">   Visit my personal homepage   </a> <br>
   <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
    How to reach me: 
   <a href="mailto:frayero40ok@gmail.com">frayero40ok@gmail.com 
