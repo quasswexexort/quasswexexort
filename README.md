@@ -35,15 +35,16 @@ Here are some ideas to get you started:
    How to reach me: 
   <a href="mailto:frayero40ok@gmail.com">frayero40ok@gmail.com 
 </a>
+ 
 
 <div> <h3> 💼 Skills </h3>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+<img src="https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB"> 
+<img src="https://img.shields.io/badge/CSS-090909?&style=for-the-badge&logo=css3&logoColor=264DE4"> 
+<img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9O54D" >
+<img src="https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" >
+<img src="https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" >
+<img src="https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=777BB4" >
+<img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=417E93" >
 </div>
 <details>
 <summary>My Resume</summary>
@@ -58,13 +59,13 @@ Here are some ideas to get you started:
 <h3 align="center"> 📈 GitHub Stats </h3> <br>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&theme=dark) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasswexexort&layout=compact&theme=dark)](https://github.com/quasswexexort/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quasswexexort&show_icons=true&?theme=radical)](https://github.com/quasswexexort) <br>
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 You are visitor nubmer: <br>
+
 ![Visitor Count ](https://profile-counter.glitch.me/{quasswexexort}/count.svg)
 
 
